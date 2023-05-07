@@ -1,2 +1,2 @@
 # Chatterbox
-CSDS 377 Final Project
+An iOS application communicating with a Raspberry Pi through voice memos!
