@@ -7,6 +7,6 @@ Chatterbox allows a person to use their phone to send a voice memo to a raspberr
 
 
 ## Technologies used
-iOS side: AWS to connect to Amazon S3 bucket, CocoaPods to install AWS3 and Swift for all implementation regarding the app
-raspberry-pi side: boto3 python library to connected to Amazon S3 bucket, supervisor script for running at plug-in
+* iOS side: AWS to connect to Amazon S3 bucket, CocoaPods to install AWS3 and Swift for all implementation regarding the app
+* raspberry-pi side: boto3 python library to connected to Amazon S3 bucket, supervisor script for running at plug-in
 
