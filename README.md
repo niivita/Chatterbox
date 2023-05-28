@@ -1,5 +1,5 @@
 # Chatterbox
-Chatterbox allows a person to use their phone to send a voice memo to the Lampi, and the person near the Lampi to respond with a voice message. This would be generally useful for younger children who don’t own mobile devices yet and parents who want to keep in touch with their children when they are out of town. Similarly, this example is applicable to the elderly, who aren’t necessarily technologically savvy. Grandchildren can keep in touch with their grandparents by using this pair of devices to communicate.
+Chatterbox allows a person to use their phone to send a voice memo to a raspberry pi, and the person near the pi to respond with a voice message. This would be generally useful for younger children who don’t own mobile devices yet and parents who want to keep in touch with their children when they are out of town. Similarly, this example is applicable to the elderly, who aren’t necessarily technologically savvy. Grandchildren can keep in touch with their grandparents by using this pair of devices to communicate.
 
 ## Capabilities
 1. Record, playback and send voice memo from iPhone to Raspberry Pi (RPI) and vice versa. 
